@@ -1,0 +1,13 @@
+#ifndef TELEOP_KEYBOARD__DF_KEYBOARD_HPP_
+#define TELEOP_KEYBOARD__DF_KEYBOARD_HPP_
+#define LIN_VEL_STEP_SIZE 1.0
+#define ANG_VEL_STEP_SIZE 1.0
+#define KEYCODE_W 0x77
+#define KEYCODE_A 0x61
+#define KEYCODE_S 0x73
+#define KEYCODE_D 0x64
+#define KEYCODE_X 0x78
+
+#define MAX_LIN_VEL 2.0
+#define MAX_ANG_VEL 2.0
+#endif 
